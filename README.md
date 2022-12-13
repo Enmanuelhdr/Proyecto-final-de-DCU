@@ -30,4 +30,4 @@ https://itlaedudo-my.sharepoint.com/:v:/g/personal/20211967_itla_edu_do/EbfzmH6V
 
 
 ---
-⌨️ con ❤️ por Enmanuel Heredia 😊
+Con ❤️ por Enmanuel Heredia, Ivan Castillo y Manuel De Jesús 😊
