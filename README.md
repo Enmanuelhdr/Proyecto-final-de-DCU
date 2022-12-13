@@ -6,32 +6,26 @@ En este repositorio se encuentra el trabajo final, realizado por Enmanuel Heredi
 _Este es una pagina la cual ayuda a las personas a tener un estilod de vida mas saludable y acorde a las metas que las mismas se propongan todo esto mediante
 a datos los cuales son suministrados por los usuarios al momento de ingresar a la plataforma_
 
-### Pre-requisitos 📋
 
-* Tener installado python 3 en el ordenador
-* Instalar el modulo requests
-* Tener conexion a internet
+## Video demostracion 📦
+https://itlaedudo-my.sharepoint.com/:v:/g/personal/20211967_itla_edu_do/EbfzmH6Vwv5Fk2PGC6sbOcgB1PlAi2_e7-yeOzWuYn_6Tg 
 
-```
-pip install requests
-```
+## Lenguaje utilizado 🛠️
 
-## Ojo 📦
+* HTML
+* JavaScript
 
-* _Siemplemente tienes que comenzar a escribir y el cronometro correra solo_
-* _Presionar la tecla enter cuando termines de escribir_.
+## FrameWorks 🛠️
 
-## Modulos utilizados 🛠️
-
-* SQLITE3 para la base de datos
-* Request para hacer peticiones web
-* Tk inter para la interfaz grafica
+* Boostrap
 
 
 ## Autores ✒️
 
-* **Enmanuel Heredia** - *Programa completo* 
 * **Enmanuel Heredia** - *Documentación*
+* **Ivan Castillo** - *Maquetacion*
+* **Manuel De Jesus** - *Gestion de datos*
+* **Enmanuel Heredia** - *Diseño* 
 
 
 
